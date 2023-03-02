@@ -3,4 +3,4 @@
 2. Đọc và vẽ biểu đồ dữ liệu chứng khoán.
 3. Hãy:
     1. Vẽ biểu đồ dữ liệu chứng khoán với nhiều mã khác nhau.
-    2. Tương tự bài 1, nhưng cho phương trình y = ax^2 + bx + c (-5 <= x <= 5).
+    2. Tương tự bài 1, nhưng cho phương trình y = ax² + bx + c (-5 <= x <= 5).
